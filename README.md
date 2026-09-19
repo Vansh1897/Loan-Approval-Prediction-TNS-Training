@@ -1,30 +1,8 @@
 # LoanApplication_Prediction
 
----
-If you like this project don't forget to star⭐⭐⭐ it.
----
-
-
-This is application demo of the Datathon form Dphi Machine Learning Bootcamp as Advanced Track [LINK](https://dphi.tech/bootcamps/machine-learning-online-bootcamp/)
-
-![Dphi Bootcamp](https://github.com/ayoub-berdeddouch/LoanApplication_Prediction/blob/main/dphi_bc_advanced.PNG)
-
-
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-
-
-# Demo
-
-[link](https://loan-app-prediciton.herokuapp.com/)   [![Website perso.crans.org](https://img.shields.io/website-up-down-green-red/http/perso.crans.org.svg)](http://perso.crans.org/)
-
-![Loan App](https://github.com/ayoub-berdeddouch/LoanApplication_Prediction/blob/main/loan_app.PNG)
-![Loan App Predict](https://github.com/ayoub-berdeddouch/LoanApplication_Prediction/blob/main/make_pred.PNG)
-
 # Content
 
 A loan application is used by borrowers to apply for a loan. Through the loan application, borrowers reveal key details about their finances to the lender. The loan application is crucial to determining whether the lender will grant the request for funds or credit.
-
-![Loan Application](https://dphi-courses.s3.ap-south-1.amazonaws.com/Datathons/loan.png)
 
 # Problem Statement
 
@@ -81,11 +59,3 @@ test_data = pd.read_csv('https://raw.githubusercontent.com/dphi-official/Dataset
 ```
 Here the target column is deliberately not there as you need to predict it.
 
-
-# Author 
-
-[Ayoub Berdeddouch](https://github.com/ayoub-berdeddouch)
-
-# Licence 
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 2020
